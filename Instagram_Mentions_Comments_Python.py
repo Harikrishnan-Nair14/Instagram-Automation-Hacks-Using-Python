@@ -5,6 +5,7 @@ Created on Sun Jun 16 03:29:38 2024
 @author: Harikrishnan Nair
 """
 
+# Follow Harikrishnan-Nair14 for more Programming Related Concepts...Life is Coding...
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
@@ -14,8 +15,8 @@ import time
 
 # Configuration
 instagram_url = "https://www.instagram.com"
-username = "dtp2148"
-password = "HKNAIR"  # Updated password to match the initial code
+username = "THE_GEEK_HARRY"
+password = "HKNAIRXXX"  # Updated password to match the initial code
 post_url = "https://www.instagram.com/p/CPGDLfAANbI/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA=="  # Replace with the actual post URL
 
 # Give the Input Tags starting with '@'
@@ -72,7 +73,7 @@ input_tags = [
     "nikhil_krishna_js_ , banacafe_ , _x_jayson ",
     "a_f_i_n , .chelsy.541 , ares007_ ",
     "v_is_h_n_u_j_b228_ , joel_joy_lfc_ , renotyser"
-]
+]  # Place your Actual Comments to whom you wanna Mention "@"
 
 # Convert tags to tag sets
 tag_sets = [tag_set.split(",") for tag_set in input_tags]
