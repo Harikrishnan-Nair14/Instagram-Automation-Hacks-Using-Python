@@ -17,7 +17,7 @@ import time
 instagram_url = "https://www.instagram.com"
 username = "THE_GEEK_HARRY"
 password = "HKNAIRXXX"  # Updated password to match the initial code
-post_url = "https://www.instagram.com/p/CPGDLfAANbI/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA=="  # Replace with the actual post URL
+post_url = "https://www.instagram.com/p/C78rQ-dyzau/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="  # Replace with the actual post URL
 
 # Give the Input Tags starting with '@'
 # Also make sure that the tags placed in this variable are not recorded under spam activity...
